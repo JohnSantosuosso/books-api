@@ -7,7 +7,7 @@ Gemfile dependencies include:
 factory_bot_rails
 shoulda-matchers
 database_cleaner
-faker```
+faker
 
 
 To run this project:
