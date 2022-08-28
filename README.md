@@ -1,24 +1,10 @@
-# README
+This is a walkthrough from https://www.microverse.org/blog/test-driven-development-of-restful-json-api-with-rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project uses ```rails 5.2.8``
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Gemfile dependencies:
+```rspec-rails
+factory_bot_rails
+shoulda-matchers
+database_cleaner
+faker```
