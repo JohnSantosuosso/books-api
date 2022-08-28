@@ -9,6 +9,7 @@ shoulda-matchers
 database_cleaner
 faker```
 
+
 To run this project:
 1.  Fork and clone the repository *Note--if you are building the project from scratch, there is a beginning repo found in the walkthrough instructions*
 2. Run ```bundle install``` in your terminal inside the project directory
