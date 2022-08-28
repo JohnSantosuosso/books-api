@@ -7,7 +7,7 @@ This project uses ```rails 5.2.8```
 2. Run ```bundle install``` in your terminal inside the project directory
 3. Run ```rails s``` and view the project in your browser by visiting ```locahost:3000```
 
-Gemfile dependencies include:
+**Gemfile dependencies include:**
 ```rspec-rails
 factory_bot_rails
 shoulda-matchers
