@@ -1,4 +1,4 @@
-This project is an API building practice completed in Rails 5.2.8.  This was completed by following instruction at https://www.microverse.org/blog/test-driven-development-of-restful-json-api-with-rails
+This project is an API building practice completed in Rails 5.2.8.  This was completed by following the instructions at https://www.microverse.org/blog/test-driven-development-of-restful-json-api-with-rails
 
 This project uses ```rails 5.2.8```
 
